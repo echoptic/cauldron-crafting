@@ -1,0 +1,1 @@
+execute as @e[tag=cauldron] at @s run function floorcraft:loop

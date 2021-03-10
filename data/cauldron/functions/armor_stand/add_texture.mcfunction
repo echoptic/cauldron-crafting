@@ -1,0 +1,1 @@
+data modify entity @s ArmorItems set value [{},{},{},{id:"minecraft:chicken_spawn_egg",Count:1b,tag:{CustomModelData:4000}}]

@@ -1,0 +1,2 @@
+function cauldron:armor_stand/marker
+function cauldron:armor_stand/craft

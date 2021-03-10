@@ -1,0 +1,1 @@
+execute as @e[type=armor_stand, tag=age, tag=cauldron] at @s unless block ~ ~ ~ #minecraft:cauldrons run kill @s

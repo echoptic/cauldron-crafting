@@ -1,0 +1,2 @@
+execute unless entity @e[type=armor_stand,distance=..0.8] align xz positioned ~0.5 ~ ~0.5 run summon armor_stand ~ ~ ~ {Tags:["cauldron"],Marker:0b,Small:1b,Invisible:1b,NoGravity:0b}
+kill @e[type=item,nbt={Item:{id:"minecraft:iron_nugget"}}]
