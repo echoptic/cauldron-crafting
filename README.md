@@ -1,2 +1,2 @@
 # cauldron-crafting
-**How to use**
+**How to use:**
